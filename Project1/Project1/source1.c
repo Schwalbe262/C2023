@@ -2,7 +2,8 @@
 
 int main(void) {
 
-	printf("Hello world!");
+	printf("Hello ECE!!");
+	printf("Hello UOS!!");
 
 	return 0;
 
